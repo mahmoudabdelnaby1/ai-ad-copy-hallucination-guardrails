@@ -1,0 +1,7 @@
+{
+  "max_allowable_discount_percent": 25,
+  "prohibited_claims": [
+    "شحن مجاني لجميع دول العالم بدون حد أدنى",
+    "ضمان علاج 100%"
+  ]
+}
